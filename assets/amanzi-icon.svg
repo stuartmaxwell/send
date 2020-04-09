@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!--Origal colours:
+Icon: 4 0 a 2 c a (light blue)
+Letters: 2 1 4 6 7 e (dark blue)
+-->
+
+<!-- Colour testing:
+Orange: FE5000
+Orange Pop: FFBA52
+Flame Orange: FC8A17
+Shocking Orange: FF6D2B
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3350"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="200"
+   height="200"
+   xml:space="preserve"
+   sodipodi:docname="amanzi-icon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"><metadata
+     id="metadata3355"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3353"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3357" /><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3365"><path
+         d="M 0,14400 H 14400 V 0 H 0 Z"
+         id="path3367"
+         inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
+     inkscape:window-height="707"
+     inkscape:window-width="1039"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="2.0677285"
+     inkscape:cx="30.180235"
+     inkscape:cy="105.93963"
+     inkscape:window-x="174"
+     inkscape:window-y="27"
+     inkscape:current-layer="g3359"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="-0.4"
+     inkscape:window-maximized="0" /><g
+     id="g3359"
+     inkscape:groupmode="layer"
+     inkscape:label="Amanzi_logo_tagline"
+     transform="matrix(1.25,0,0,-1.25,-9207.6388,9128.9863)"><g
+       id="g3754"
+       transform="translate(1.6,11.2)"><g
+         transform="translate(7480.5996,7193.4551)"
+         id="g3369"><path
+           inkscape:connector-curvature="0"
+           id="path3371"
+           style="fill:#fc8a17;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -1.412,-4.342 -0.471,-11.826 -4.219,-11.826 h -28.072 c -7.766,0 -11.648,2.959 -11.648,8.879 0,1.681 0.38,3.482 1.136,5.41 L -29.68,38.472 H -0.344 L -14.381,0 Z" /></g><g
+         transform="translate(7486.0918,7253.5498)"
+         id="g3373"><path
+           inkscape:connector-curvature="0"
+           id="path3375"
+           style="fill:#fc8a17;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-3.933 -1.676,-7.279 -5.021,-10.034 -3.35,-2.759 -7.377,-4.135 -12.083,-4.135 -4.796,0 -8.865,1.376 -12.212,4.135 -3.348,2.755 -5.02,6.101 -5.02,10.034 0,3.898 1.672,7.225 5.02,9.98 3.347,2.758 7.416,4.135 12.212,4.135 4.706,0 8.733,-1.377 12.083,-4.135 C -1.676,7.225 0,3.898 0,0" /></g><g
+         transform="translate(7522.916,7226.519)"
+         id="g3377"><path
+           inkscape:connector-curvature="0"
+           id="path3379"
+           style="fill:#fc8a17;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.615,-12.854 -5.016,-22.564 -13.266,-31.49 -8.427,-9.119 -17.277,-13.318 -31.978,-13.4 h -22.465 c -9.15,0 7.863,14.557 7.863,14.557 h 18.467 c 6.617,0 14.551,3.385 19.848,10.349 4.976,6.649 7.609,13.31 7.609,20.59 0,13.361 -6.027,24.076 -17.789,31.54 -10.078,6.335 -22.184,9.502 -36.326,9.502 -19.147,0 -35.979,-5.938 -50.494,-17.804 -15.459,-12.563 -23.186,-28.266 -23.186,-47.108 0,-15.2 5.821,-27.194 17.471,-35.989 10.449,-7.854 23.572,-11.78 39.35,-11.78 17.154,0 33.089,4.85 47.804,14.549 0,0 -25.765,-26.846 -49.601,-26.846 -18.336,0 -34.291,5.055 -47.87,15.168 -14.828,11.182 -22.242,25.659 -22.242,43.434 0,3.391 0.248,6.535 0.75,9.424 3.692,20.979 14.582,37.747 32.67,50.31 16.899,11.746 36.299,17.62 58.207,17.62 17.901,0 32.668,-3.957 44.309,-11.874 C -7.416,31.583 0.752,15.645 0,0" /></g></g></g></svg>

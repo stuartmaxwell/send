@@ -19,16 +19,16 @@ class Promo extends Component {
       >
         <div class="flex items-center mx-auto">
           <img
-            src="${assets.get('master-logo.svg')}"
+            src="${assets.get('amanzi-icon.svg')}"
             class="w-6 h-6"
-            alt="Firefox"
+            alt="Amanzi"
           />
           <span class="ml-2 sm:ml-4 text-xs sm:text-base">
-            ${`Like Firefox Send? You'll love our new full-device VPN. `}
+            ${`Hosted by `}
             <a
               class="underline link-blue"
-              href="https://fpn.firefox.com/?utm_source=send.firefox.com&utm_medium=referral&utm_content=Try+Firefox+Private+Network&utm_campaign=top-bar"
-              >${`Get it today`}</a
+              href="https://amanzi.nz/"
+              >${`Amanzi NZ`}</a
             >
           </span>
         </div>
